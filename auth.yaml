@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    shankar:
+      email: shankar@example.com
+      name: Shankar
+      password: "PASTE_HASH_HERE"
+
+cookie:
+  expiry_days: 7
+  key: "some_random_cookie_key_12345"
+  name: "resume_app_auth"
+
+preauthorized:
+  emails: []

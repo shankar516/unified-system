@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+pytesseract
+pillow
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python-dotenv
+numpy
+streamlit-authenticator>=0.3.3
+PyYAML>=6.0.1
